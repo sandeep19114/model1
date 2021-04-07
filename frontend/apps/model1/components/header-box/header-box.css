@@ -1,0 +1,17 @@
+.navbar-brand {
+	margin-left: 7%;
+	font-weight: bold;
+}
+.navbar-nav {
+	margin-left: 36%;
+}
+.nav-item {
+	margin-left: 10%;
+}
+.nav-link {
+	font-weight: bold;
+}
+.nav-top-mr {
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
