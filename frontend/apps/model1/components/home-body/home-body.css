@@ -1,0 +1,58 @@
+.bgimg {
+	background-image: url('../../img/bg.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 465px;
+	color: white;
+	opacity: 1;
+}
+.ltext {
+	margin:5% 2% 0 5%;
+	width: 40%;
+}
+.rform {
+	background-color: white;
+	width: 350px;
+	height:300px;
+	margin-top: 5%;
+	margin-left: 10%;
+	border-radius: 4px;
+}
+.fe {
+	border:none;
+	border-bottom: 1px solid #ddd;
+	padding-top:25px;
+	width: 90%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.form-but {
+	color: white;
+	background-color: orange;
+	width: 107.5%;
+	margin-left:-12px;
+	outline: none;
+	height: 15%;
+}
+.ftext {
+	color: black;
+	font-weight: 900;
+	font-size: 20px;
+	text-align: center;
+	background-color: #e6e6e6;
+	height: 12%;
+	margin-top: 1px;
+	padding-top: 2px;
+	width: 107%;
+	margin-left: -11px;
+}
+@media only screen and (max-width: 830px){
+    .rform {
+		display: none;
+	}
+	.ltext {
+		width: 80%;
+
+	}
+}
