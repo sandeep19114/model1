@@ -7,8 +7,9 @@ export const APP_CONSTANTS = {
  HOME_HTML: APP_PATH + "/home.html",
 
  SESSION_NOTE_ID: "com_monkshu_ts",
- API_MESSAGE: `${BACKEND}/apis/message`,
- API_RANDOM: `${BACKEND}/apis/random`,
+ 
+ API_ADD_USER: `${BACKEND}/apis/addUser`,
+
  USERID: "id",
  USER_ROLE: "user",
  GUEST_ROLE: "guest",
